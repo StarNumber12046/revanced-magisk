@@ -49,6 +49,7 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [TikTok]
+build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
